@@ -1,3 +1,11 @@
+/*
+문제 유형: 너무나도 단순한 DFS,BFS문제 진짜 문제에서 대놓고 명시함
+헷갈린점: 있겠냐?
+구현 아이디어: 단순한 DFS, BFS
+느낀점: 왜 이거 ㅅㅂ 정답율 30%? 뇌 없? 
+*/
+
+
 #include <iostream>
 #include <fstream>
 #include <vector>
